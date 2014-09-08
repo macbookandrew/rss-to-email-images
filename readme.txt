@@ -1,8 +1,8 @@
 === RSS-to-Email Images ===
 Contributors: macbookandrew
 Requires at least: 3.0
-Tested up to: 3.9
-Stable tag: 1.0
+Tested up to: 4.0
+Stable tag: 1.1
 Tags: RSS
 License: GPL v3
 License URI: http://choosealicense.com/licenses/gpl-v3/
