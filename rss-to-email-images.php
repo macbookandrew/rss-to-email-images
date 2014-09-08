@@ -3,7 +3,7 @@
  * Plugin Name: RSS-to-Email Images
  * Plugin URI: http://code.andrewrminion.com/rss-to-email-images/
  * Description: Fixes large images in RSS-to-email campaigns; based on http://css-tricks.com/dealing-content-images-email/
- * Version: 1.0
+ * Version: 1.1
  * Author: AndrewRMinion Design
  * Author URI: http://andrewrminion.com
  * License: GPL3
